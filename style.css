@@ -1,0 +1,28 @@
+body {
+    padding-top: 50px;
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("https://shortest.link/mT-");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.imgContainer {
+    font-family: 'Courier New', monospace;
+    font-size: 125%;
+    text-align: center;
+    float: left;
+    padding: 15px;
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+}
